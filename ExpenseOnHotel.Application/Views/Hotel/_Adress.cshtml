@@ -1,0 +1,51 @@
+@model ExpenseOnHotel.Application.Models.HotelViewModel
+
+<div class="row">
+    <div class="col-8">
+        <div class="form-floating mb-1">
+            @Html.TextBoxFor(x => x.Address, new {@class="form-control", @placeholder = "Logradouro",
+            @required="required"})
+            <label for="Adress">Logradouro</label>
+        </div>
+    </div>
+    <div class="col-4">
+        <div class="form-floating mb-1">
+            @Html.TextBoxFor(x => x.AddressPostalCode, new {@class="form-control", @placeholder = "CEP",
+            @required="required",
+            @pattern= @"\d{5}-?\d{3}"})
+            <label for="AddressPostalCode">CEP</label>
+        </div>
+    </div>
+</div>
+<div class="row">
+    <div class="col-6">
+        <div class="form-floating mb-1">
+            @Html.TextBoxFor(x => x.AddressComplement, new {@class="form-control", @placeholder = "Complemento"})
+            <label for="AddressComplement">Complemento</label>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-floating mb-1">
+            @Html.TextBoxFor(x => x.AddressDistrict, new {@class="form-control", @placeholder = "Bairro",
+            @required="required"})
+            <label for="AddressDistrict">Bairro</label>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-6">
+        <div class="form-floating mb-1">
+            @Html.TextBoxFor(x => x.AddressCity, new {@class="form-control", @placeholder = "Cidade",
+            @required="required"})
+            <label for="AddressCity">Cidade</label>
+        </div>
+    </div>
+    <div class="col-6">
+        <div class="form-group">
+            <label for="AddressState">UF</label>
+            @Html.DropDownList("AddressState", ViewBag.Ufs, "Selecione a UF", new {@class="form-select",
+            @required="required"})
+        </div>
+    </div>
+</div>

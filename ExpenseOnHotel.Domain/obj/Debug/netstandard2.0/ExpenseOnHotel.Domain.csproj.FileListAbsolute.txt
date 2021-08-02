@@ -1,0 +1,9 @@
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.csprojAssemblyReference.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.AssemblyInfoInputs.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.AssemblyInfo.cs
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.csproj.CoreCompileInputs.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/bin/Debug/netstandard2.0/ExpenseOnHotel.Domain.deps.json
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/bin/Debug/netstandard2.0/ExpenseOnHotel.Domain.dll
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/bin/Debug/netstandard2.0/ExpenseOnHotel.Domain.pdb
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.dll
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.pdb

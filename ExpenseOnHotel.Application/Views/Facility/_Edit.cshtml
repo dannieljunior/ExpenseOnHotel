@@ -1,0 +1,25 @@
+@model ExpenseOnHotel.Application.Models.FacilityViewModel
+
+@using (Html.BeginForm("Edit", "Facility", FormMethod.Post, new { @id = "frm" }))
+{
+  @Html.HiddenFor(x => x.Id)
+
+  <div class="form-floating mb-1">
+  @Html.TextBoxFor(x => x.Description, new {@class="form-control", @placeholder = "Descrição da comodidade",
+  @required="required"})
+  <label for="Name">Descrição da comodidade</label>
+</div>
+
+  <div class="form-group mb-4">
+  @Html.DropDownList("Icon", ViewBag.IconList, "Selecione o ícone", new {@class="form-select"})
+</div>
+
+
+  <div class="modal-footer">
+    <button onclick="CloseModal();" class="btn btn-secondary">Fechar</button>
+    <button Name="submit" type="submit" class="btn btn-primary">Salvar</button>
+  </div>
+
+}
+
+<script type="text/javascript" src="~/js/Facility/Edit.js"></script>

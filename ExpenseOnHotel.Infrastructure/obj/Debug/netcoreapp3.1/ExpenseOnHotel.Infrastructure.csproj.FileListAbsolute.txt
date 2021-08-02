@@ -1,0 +1,15 @@
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.deps.json
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.dll
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.pdb
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Domain.dll
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Domain.pdb
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.csprojAssemblyReference.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.AssemblyInfoInputs.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.AssemblyInfo.cs
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.csproj.CoreCompileInputs.cache
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.csproj.CopyComplete
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.dll
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.pdb
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.runtimeconfig.json
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/bin/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.runtimeconfig.dev.json
+/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/Debug/netcoreapp3.1/ExpenseOnHotel.Infrastructure.genruntimeconfig.cache

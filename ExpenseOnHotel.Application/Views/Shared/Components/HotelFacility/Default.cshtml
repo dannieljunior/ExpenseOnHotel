@@ -1,0 +1,24 @@
+@model IEnumerable<ExpenseOnHotel.Application.Models.HotelFacilityViewModel>
+
+<div class="form-group">
+    <div class="row">
+        <div class="col-10">
+            @Html.DropDownList("Facility", ViewBag.Facilities, "Selecione uma comodidade", new {@class="form-select"})
+        </div>
+        <div class="col-2">
+            <a class="btn btn-primary mr-2" href="javascript: OnSelectFacility();">Adicionar</a>
+        </div>
+    </div>
+
+</div>
+
+<ul class="list-group list-group mt-2" id="hotelFacilitiesList">
+    <!--Aqui eu poderia usar o model e um foreach, mas resolvi fazer tudo pelo javascript mesmo-->
+</ul>
+
+<script>
+    let facilities = @Html.Raw(Json.Serialize(@ViewBag.Facilities));
+    let hotelFacilitiesRemote = @Html.Raw(Json.Serialize(@Model));
+</script>
+
+<script type="text/javascript" src="~/js/HotelFacility/Default.js"></script>

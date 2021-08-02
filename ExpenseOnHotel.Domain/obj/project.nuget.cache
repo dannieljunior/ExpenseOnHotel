@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qrw0GvEMqQsFW9TRmR52Y/rpalpy1yaRdbwR/M6J5Hm78S4SEjAipfAmPhRulbqLHmdSKZGAl8PNEC0JFVe68A==",
+  "success": true,
+  "projectFilePath": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/ExpenseOnHotel.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/danieljunior/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/danieljunior/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/danieljunior/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

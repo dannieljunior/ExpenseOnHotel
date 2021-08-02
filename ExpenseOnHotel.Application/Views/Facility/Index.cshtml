@@ -1,0 +1,73 @@
+@model IEnumerable<ExpenseOnHotel.Application.Models.FacilityViewModel>
+
+@{
+    ViewData["Title"] = "Comodidades";
+}
+
+<div class="row">
+    <div class="col">
+        <h3>@ViewData["Title"]</h3>
+    </div>
+    <div class="col">
+
+        <a href="javascript: OpenModal('Cadastro de Comodidade', 'Facility/Edit/');" class="btn btn-success mb-1">
+            <i class="fas fa-plus"></i>
+            Adicionar Comodidade
+        </a>
+    </div>
+</div>
+
+@using (Html.BeginForm("Index", "Facility", FormMethod.Get))
+{
+    <div class="row">
+    <div class="col">
+        @Html.TextBox("textSearch", null, new{@class="form-control", @placeholder="Buscar pelo descrição"})
+    </div>
+    <div class="col">
+        <button type="submit" class="btn btn-secondary mr-2">
+            <i class="fas fa-search"></i>
+            Buscar
+        </button>
+
+        @Html.ActionLink("Limpar", "Index", "Facility")
+
+    </div>
+</div>
+}
+
+<div class="row">
+
+@foreach (var facility in Model)
+{
+    
+        <div class="col-6 mt-2">
+            <div class="card">
+                <div class="card-body">
+                    <i class="@(facility.Icon)"></i>
+                    <h5 class="card-title">@facility.Description</h5>
+                    <a href="javascript: OpenModal('Cadastro de Comodidade', 'Facility/Edit/@(facility.Id)');">Editar</a> |
+                    <a href="javascript: Delete('@facility.Id')" onclick="return confirm('Excluir comodidade?');">Excluir</a>
+                </div>
+            </div>
+        </div>  
+}
+
+</div>
+
+@if (@Model.Count() <= 0)
+{
+    <div class="alert alert-warning mt-2" role="alert">
+        Nenhuma comodidade encontrada.
+    </div>
+}
+else
+{
+    <div class="alert mt-2" role="alert">
+        Comodidades encontradas: @Model.Count()
+    </div>
+}
+
+@section Scripts {
+    <script type="text/javascript" src="~/js/Facility/Index.js"></script>
+}
+
