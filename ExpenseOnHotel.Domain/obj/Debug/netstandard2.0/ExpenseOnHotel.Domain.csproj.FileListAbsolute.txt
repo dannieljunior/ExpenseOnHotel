@@ -7,3 +7,12 @@
 /home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/bin/Debug/netstandard2.0/ExpenseOnHotel.Domain.pdb
 /home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.dll
 /home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/obj/Debug/netstandard2.0/ExpenseOnHotel.Domain.pdb
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\bin\Debug\netstandard2.0\ExpenseOnHotel.Domain.deps.json
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\bin\Debug\netstandard2.0\ExpenseOnHotel.Domain.dll
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\bin\Debug\netstandard2.0\ExpenseOnHotel.Domain.pdb
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.csproj.AssemblyReference.cache
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.AssemblyInfoInputs.cache
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.AssemblyInfo.cs
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.csproj.CoreCompileInputs.cache
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.dll
+D:\produto\ExpenseOnHotel\ExpenseOnHotel.Domain\obj\Debug\netstandard2.0\ExpenseOnHotel.Domain.pdb

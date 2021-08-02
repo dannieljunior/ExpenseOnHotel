@@ -811,35 +811,42 @@
     ]
   },
   "packageFolders": {
-    "/home/danieljunior/.nuget/packages/": {},
-    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\danni\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/ExpenseOnHotel.Infrastructure.csproj",
+      "projectUniqueName": "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Infrastructure\\ExpenseOnHotel.Infrastructure.csproj",
       "projectName": "ExpenseOnHotel.Infrastructure",
-      "projectPath": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/ExpenseOnHotel.Infrastructure.csproj",
-      "packagesPath": "/home/danieljunior/.nuget/packages/",
-      "outputPath": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Infrastructure/obj/",
+      "projectPath": "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Infrastructure\\ExpenseOnHotel.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\danni\\.nuget\\packages\\",
+      "outputPath": "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "/home/danieljunior/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\danni\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/ExpenseOnHotel.Domain.csproj": {
-              "projectPath": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/ExpenseOnHotel.Domain.csproj"
+            "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Domain\\ExpenseOnHotel.Domain.csproj": {
+              "projectPath": "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Domain\\ExpenseOnHotel.Domain.csproj"
             }
           }
         }
@@ -852,6 +859,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "dependencies": {
           "Microsoft.EntityFrameworkCore": {
             "target": "Package",
@@ -883,7 +891,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

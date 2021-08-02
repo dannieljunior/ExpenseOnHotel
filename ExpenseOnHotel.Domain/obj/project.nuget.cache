@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "qrw0GvEMqQsFW9TRmR52Y/rpalpy1yaRdbwR/M6J5Hm78S4SEjAipfAmPhRulbqLHmdSKZGAl8PNEC0JFVe68A==",
+  "dgSpecHash": "a0ahiY1rAn+xq5svPSfTVR7CCHpwLAeYXwZTyiCkWwno+YgIXqh1p4n3Y5693MQ4RII+w3ISP0sox49HYOfD9g==",
   "success": true,
-  "projectFilePath": "/home/danieljunior/Documentos/produto/ExpenseOn/ExpenseOnHotel/ExpenseOnHotel.Domain/ExpenseOnHotel.Domain.csproj",
+  "projectFilePath": "D:\\produto\\ExpenseOnHotel\\ExpenseOnHotel.Domain\\ExpenseOnHotel.Domain.csproj",
   "expectedPackageFiles": [
-    "/home/danieljunior/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/danieljunior/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/home/danieljunior/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512"
+    "C:\\Users\\danni\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\danni\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\danni\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
