@@ -23,4 +23,4 @@ FROM base AS final
 WORKDIR /app
 COPY --from=publish /app/publish .
 
-ENTRYPOINT ["dotnet", "ExpenseOnHotel.Application.dll", "--environment=Development"]
+ENTRYPOINT ["dotnet", "ExpenseOnHotel.Application.dll"]

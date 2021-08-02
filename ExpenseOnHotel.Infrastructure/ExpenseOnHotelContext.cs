@@ -15,8 +15,12 @@ namespace ExpenseOnHotel.Infrastructure
         {
         }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-            => optionsBuilder.UseMySql("Host=localhost;Port=3306;Username=root;Password=123456;Database=ExpenseOnHotel;", new MySqlServerVersion(new System.Version(8, 0, 22)));
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder){
+            base.OnConfiguring(optionsBuilder);
+        }
+
+        // protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+            // => optionsBuilder.UseMySql("Host=localhost;Port=3306;Username=root;Password=123456;Database=ExpenseOnHotel;", new MySqlServerVersion(new System.Version(8, 0, 22)));
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
